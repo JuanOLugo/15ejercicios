@@ -11,13 +11,14 @@
     <h4>Nombre: allsum.php</h4>
     <h5>Descripcion: </h5>
     <p>Suma todos los numeros que estan en el array</p>
+    <image src="https://imgur.com/H3utt7R" with="150px"/>
   </div>
   <div>
     <h2>Ejercicio #2</h2>
     <h4>Nombre: calculator.php</h4>
     <h5>Descripcion: </h5>
     <p>Suma, resta, multiplica y divide 2 numeros</p>
-    <image src="https://imgur.com/H3utt7R" with="150px"/>
+    
   </div>
   <div>
     <h2>Ejercicio #3</h2>
