@@ -11,7 +11,7 @@
     <h4>Nombre: allsum.php</h4>
     <h5>Descripcion: </h5>
     <p>Suma todos los numeros que estan en el array</p>
-    <blockquote class="imgur-embed-pub" lang="en" data-id="H3utt7R"><a href="https://imgur.com/H3utt7R">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+    <image src="https://imgur.com/H3utt7R.png" width="250px"/>
   </div>
   <div>
     <h2>Ejercicio #2</h2>
